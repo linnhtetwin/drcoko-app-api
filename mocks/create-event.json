@@ -1,0 +1,8 @@
+{
+    "body": "{\"content\":\"I am fine now\"}",
+    "requestContext": {
+      "identity": {
+        "cognitoIdentityId": "USER-SUB-1234"
+      }
+    }
+  }
